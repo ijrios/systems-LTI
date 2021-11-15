@@ -3,3 +3,9 @@
 
 # Correlación y autocorrelación: Aplicaciones.
 •	Se requiere un script que reciba la señal y(n) que corresponde a x(n) afectada por multitrayecto, y entregue los valores de N1, N2, N3 y N4, k1, k2, k3 y k4 correspondientes a los retardos de las cuatro componentes de multitrayecto recibidas y sus atenuaciones sufridas. ¿Qué observa y concluye? ¿Cómo estimó estos parámetros? Explique. ¿Cómo son N1, N2, N3 y N4 expresados en tiempo (τ1, τ2, τ3, τ4)? ¿Cómo sería el diagrama en bloques de la respuesta del recinto? ¿Se podría estimar la distancia entre el violín (fuente) y las paredes del recinto? Explique.
+
+# Conclusiones
+
+•	Mientras mayor sea la amplitud de cada impulso generado, mayor será el efecto eco, se escuchará con mayor potencia el sonido.
+
+•	Los valores de cada retardo deben estar por dentro del rango del tiempo de la señal, si los retardos están por fuera del rango, la señal generará más ecos, ya que la señal se desplaza mucho con respecto a la señal original.
